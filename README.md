@@ -1,4 +1,4 @@
-Clone this repository git clone https://github.com/nycoAB/headpose_VideoGame.git
+Clone this repository git clone https://github.com/nycoAB/headpose_VideoGame_python.git
 
 Open the file  in IDE
 
